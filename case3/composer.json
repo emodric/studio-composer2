@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/polyfill": "~1.21.0@dev",
+        "franzl/studio": "^0.15"
+    }
+}

@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 d6b374f2156be8478bc6df06b4ee1b5240d8fb07 Edi Modrić <eddie@abyss.(none)> 1608301591 +0100	clone: from git@github.com:symfony/polyfill.git
+d6b374f2156be8478bc6df06b4ee1b5240d8fb07 c33af73c7049395ea5136423e4fbdc16dbd688cd Edi Modrić <edi.modric@gmail.com> 1608302352 +0100	commit: Test commit
+c33af73c7049395ea5136423e4fbdc16dbd688cd d6b374f2156be8478bc6df06b4ee1b5240d8fb07 Edi Modrić <eddie@abyss.(none)> 1608303782 +0100	reset: moving to HEAD~1
